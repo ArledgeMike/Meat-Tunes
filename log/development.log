@@ -5005,3 +5005,4 @@ Served asset /songs.js - 200 OK (1ms)
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-15 17:16:55 -0500
 Served asset /application.js - 304 Not Modified (27ms)
+Connecting to database specified by database.yml
