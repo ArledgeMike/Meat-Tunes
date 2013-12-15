@@ -1,14 +1,11 @@
-$(document).ready(function(){
+$(document).ready(function(event){
 	var audioSection = $('#section#audio');
-  $('a.html5').click(function(){
-    var audio = $('<audio>', {
-	         controls : 'controls'
-	         });
+  $('.html5').click(function(event){
+    var source = $(this).attr('href');
+    $('audio').attr('src', source);
+	
+	
+    event.preventDefault();
   
-  var url = $(this).attr('href');
-  $('<source>').attr('src', url).appendTo(audio);
-  audioSection.html(audio);
-     
   });
-   return false
 });

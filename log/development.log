@@ -3894,3 +3894,1114 @@ Served asset /songs.js - 304 Not Modified (2ms)
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-13 11:30:03 -0600
 Served asset /application.js - 304 Not Modified (7ms)
+Connecting to database specified by database.yml
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-14 22:06:44 -0500
+Processing by SongsController#index as HTML
+  Rendered songs/index.html.erb within layouts/application (5.1ms)
+Compiled jquery.js  (2ms)  (pid 58419)
+Compiled jquery_ujs.js  (0ms)  (pid 58419)
+Compiled application.js  (73ms)  (pid 58419)
+Completed 200 OK in 764ms (Views: 110.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-14 22:06:44 -0500
+Served asset /application.css - 200 OK (9ms)
+
+
+Started GET "/assets/foundation.min.css?body=1" for 127.0.0.1 at 2013-12-14 22:06:44 -0500
+Served asset /foundation.min.css - 200 OK (3ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-14 22:06:44 -0500
+Served asset /jquery.js - 200 OK (20ms)
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2013-12-14 22:06:44 -0500
+Served asset /normalize.css - 200 OK (1ms)
+
+
+Started GET "/assets/songs.css?body=1" for 127.0.0.1 at 2013-12-14 22:06:44 -0500
+Served asset /songs.css - 200 OK (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-14 22:06:44 -0500
+Served asset /jquery_ujs.js - 200 OK (1ms)
+
+
+Started GET "/assets/songs.js?body=1" for 127.0.0.1 at 2013-12-14 22:06:44 -0500
+Served asset /songs.js - 200 OK (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-14 22:06:44 -0500
+Served asset /application.js - 200 OK (4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-15 00:07:39 -0500
+Processing by SongsController#index as HTML
+  Rendered songs/index.html.erb within layouts/application (2.6ms)
+Compiled songs.js  (0ms)  (pid 58419)
+Compiled application.js  (2ms)  (pid 58419)
+Completed 200 OK in 634ms (Views: 38.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-15 00:07:40 -0500
+Served asset /application.css - 304 Not Modified (7ms)
+
+
+Started GET "/assets/songs.css?body=1" for 127.0.0.1 at 2013-12-15 00:07:40 -0500
+Served asset /songs.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2013-12-15 00:07:40 -0500
+Served asset /normalize.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation.min.css?body=1" for 127.0.0.1 at 2013-12-15 00:07:40 -0500
+Served asset /foundation.min.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-15 00:07:40 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-15 00:07:40 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/songs.js?body=1" for 127.0.0.1 at 2013-12-15 00:07:40 -0500
+Served asset /songs.js - 200 OK (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-15 00:07:40 -0500
+Served asset /application.js - 304 Not Modified (5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-15 00:08:01 -0500
+Processing by SongsController#index as HTML
+  Rendered songs/index.html.erb within layouts/application (2.3ms)
+Compiled songs.js  (0ms)  (pid 58419)
+Compiled application.js  (2ms)  (pid 58419)
+Completed 200 OK in 173ms (Views: 32.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-15 00:08:01 -0500
+Served asset /application.css - 304 Not Modified (5ms)
+
+
+Started GET "/assets/songs.css?body=1" for 127.0.0.1 at 2013-12-15 00:08:01 -0500
+Served asset /songs.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation.min.css?body=1" for 127.0.0.1 at 2013-12-15 00:08:01 -0500
+Served asset /foundation.min.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-15 00:08:01 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2013-12-15 00:08:01 -0500
+Served asset /normalize.css - 304 Not Modified (20ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-15 00:08:01 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-15 00:08:01 -0500
+Served asset /application.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/songs.js?body=1" for 127.0.0.1 at 2013-12-15 00:08:01 -0500
+Served asset /songs.js - 200 OK (1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-15 00:08:56 -0500
+Processing by SongsController#index as HTML
+  Rendered songs/index.html.erb within layouts/application (2.4ms)
+Compiled songs.js  (0ms)  (pid 58419)
+Compiled application.js  (2ms)  (pid 58419)
+Completed 200 OK in 528ms (Views: 20.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-15 00:08:57 -0500
+Served asset /application.css - 304 Not Modified (6ms)
+
+
+Started GET "/assets/foundation.min.css?body=1" for 127.0.0.1 at 2013-12-15 00:08:57 -0500
+Served asset /foundation.min.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/songs.css?body=1" for 127.0.0.1 at 2013-12-15 00:08:57 -0500
+Served asset /songs.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2013-12-15 00:08:57 -0500
+Served asset /normalize.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-15 00:08:57 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-15 00:08:57 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/songs.js?body=1" for 127.0.0.1 at 2013-12-15 00:08:57 -0500
+Served asset /songs.js - 200 OK (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-15 00:08:57 -0500
+Served asset /application.js - 304 Not Modified (4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-15 00:08:59 -0500
+Processing by SongsController#index as HTML
+  Rendered songs/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 163ms (Views: 6.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-15 00:09:00 -0500
+Served asset /application.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/songs.css?body=1" for 127.0.0.1 at 2013-12-15 00:09:00 -0500
+Served asset /songs.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation.min.css?body=1" for 127.0.0.1 at 2013-12-15 00:09:00 -0500
+Served asset /foundation.min.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2013-12-15 00:09:00 -0500
+Served asset /normalize.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-15 00:09:00 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-15 00:09:00 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/songs.js?body=1" for 127.0.0.1 at 2013-12-15 00:09:00 -0500
+Served asset /songs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-15 00:09:00 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-15 00:11:53 -0500
+Processing by SongsController#index as HTML
+  Rendered songs/index.html.erb within layouts/application (3.3ms)
+Compiled songs.js  (0ms)  (pid 58419)
+Compiled application.js  (2ms)  (pid 58419)
+Completed 200 OK in 576ms (Views: 34.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-15 00:11:54 -0500
+Served asset /application.css - 304 Not Modified (6ms)
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2013-12-15 00:11:54 -0500
+Served asset /normalize.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation.min.css?body=1" for 127.0.0.1 at 2013-12-15 00:11:54 -0500
+Served asset /foundation.min.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-15 00:11:54 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/songs.css?body=1" for 127.0.0.1 at 2013-12-15 00:11:54 -0500
+Served asset /songs.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-15 00:11:54 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/songs.js?body=1" for 127.0.0.1 at 2013-12-15 00:11:54 -0500
+Served asset /songs.js - 200 OK (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-15 00:11:54 -0500
+Served asset /application.js - 304 Not Modified (6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-15 00:11:58 -0500
+Processing by SongsController#index as HTML
+  Rendered songs/index.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 150ms (Views: 6.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-15 00:11:58 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation.min.css?body=1" for 127.0.0.1 at 2013-12-15 00:11:58 -0500
+Served asset /foundation.min.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/songs.css?body=1" for 127.0.0.1 at 2013-12-15 00:11:58 -0500
+Served asset /songs.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2013-12-15 00:11:58 -0500
+Served asset /normalize.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-15 00:11:58 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-15 00:11:58 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/songs.js?body=1" for 127.0.0.1 at 2013-12-15 00:11:58 -0500
+Served asset /songs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-15 00:11:58 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-15 00:17:15 -0500
+Processing by SongsController#index as HTML
+  Rendered songs/index.html.erb within layouts/application (2.4ms)
+Compiled songs.js  (0ms)  (pid 58419)
+Compiled application.js  (2ms)  (pid 58419)
+Completed 200 OK in 244ms (Views: 39.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-15 00:17:15 -0500
+Served asset /application.css - 304 Not Modified (6ms)
+
+
+Started GET "/assets/foundation.min.css?body=1" for 127.0.0.1 at 2013-12-15 00:17:15 -0500
+Served asset /foundation.min.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-15 00:17:15 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2013-12-15 00:17:15 -0500
+Served asset /normalize.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/songs.css?body=1" for 127.0.0.1 at 2013-12-15 00:17:15 -0500
+Served asset /songs.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-15 00:17:15 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/songs.js?body=1" for 127.0.0.1 at 2013-12-15 00:17:15 -0500
+Served asset /songs.js - 200 OK (2ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-15 00:17:15 -0500
+Served asset /application.js - 304 Not Modified (5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-15 00:17:33 -0500
+Processing by SongsController#index as HTML
+  Rendered songs/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 1153ms (Views: 6.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-15 00:17:35 -0500
+Served asset /application.css - 304 Not Modified (6ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-15 00:17:35 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/songs.css?body=1" for 127.0.0.1 at 2013-12-15 00:17:35 -0500
+Served asset /songs.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2013-12-15 00:17:35 -0500
+Served asset /normalize.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation.min.css?body=1" for 127.0.0.1 at 2013-12-15 00:17:35 -0500
+Served asset /foundation.min.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-15 00:17:35 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/songs.js?body=1" for 127.0.0.1 at 2013-12-15 00:17:35 -0500
+Served asset /songs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-15 00:17:35 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-15 00:19:34 -0500
+Processing by SongsController#index as HTML
+  Rendered songs/index.html.erb within layouts/application (2.8ms)
+Compiled songs.js  (0ms)  (pid 58419)
+Compiled application.js  (2ms)  (pid 58419)
+Completed 200 OK in 602ms (Views: 39.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-15 00:19:34 -0500
+Served asset /application.css - 304 Not Modified (6ms)
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2013-12-15 00:19:34 -0500
+Served asset /normalize.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-15 00:19:34 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/songs.css?body=1" for 127.0.0.1 at 2013-12-15 00:19:34 -0500
+Served asset /songs.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-15 00:19:34 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation.min.css?body=1" for 127.0.0.1 at 2013-12-15 00:19:34 -0500
+Served asset /foundation.min.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/songs.js?body=1" for 127.0.0.1 at 2013-12-15 00:19:34 -0500
+Served asset /songs.js - 200 OK (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-15 00:19:34 -0500
+Served asset /application.js - 304 Not Modified (5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-15 00:22:02 -0500
+Processing by SongsController#index as HTML
+  Rendered songs/index.html.erb within layouts/application (2.4ms)
+Compiled songs.js  (0ms)  (pid 58419)
+Compiled application.js  (14ms)  (pid 58419)
+Completed 200 OK in 569ms (Views: 33.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-15 00:22:03 -0500
+Served asset /application.css - 304 Not Modified (6ms)
+
+
+Started GET "/assets/foundation.min.css?body=1" for 127.0.0.1 at 2013-12-15 00:22:03 -0500
+Served asset /foundation.min.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/songs.css?body=1" for 127.0.0.1 at 2013-12-15 00:22:03 -0500
+Served asset /songs.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2013-12-15 00:22:03 -0500
+Served asset /normalize.css - 304 Not Modified (23ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-15 00:22:03 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-15 00:22:03 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/songs.js?body=1" for 127.0.0.1 at 2013-12-15 00:22:03 -0500
+Served asset /songs.js - 200 OK (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-15 00:22:03 -0500
+Served asset /application.js - 304 Not Modified (5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-15 11:01:13 -0500
+Processing by SongsController#index as HTML
+  Rendered songs/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 650ms (Views: 42.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-15 11:01:14 -0500
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/foundation.min.css?body=1" for 127.0.0.1 at 2013-12-15 11:01:14 -0500
+Served asset /foundation.min.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/songs.css?body=1" for 127.0.0.1 at 2013-12-15 11:01:14 -0500
+Served asset /songs.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2013-12-15 11:01:14 -0500
+Served asset /normalize.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-15 11:01:14 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-15 11:01:14 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/songs.js?body=1" for 127.0.0.1 at 2013-12-15 11:01:14 -0500
+Served asset /songs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-15 11:01:14 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started POST "/songs/upload" for 127.0.0.1 at 2013-12-15 11:01:48 -0500
+Processing by SongsController#upload as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"ZS9gzml3No8wFiGTwLIk0H4JzISSAhDB50GT/H9edxg=", "commit"=>"Upload"}
+  Rendered text template (0.0ms)
+Completed 200 OK in 16ms (Views: 15.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/songs/upload" for 127.0.0.1 at 2013-12-15 11:02:34 -0500
+Processing by SongsController#upload as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"ZS9gzml3No8wFiGTwLIk0H4JzISSAhDB50GT/H9edxg=", "mp3file"=>#<ActionDispatch::Http::UploadedFile:0x007fd4e2d0f818 @original_filename="06 Sweet.mp3", @content_type="audio/mp3", @headers="Content-Disposition: form-data; name=\"mp3file\"; filename=\"06 Sweet.mp3\"\r\nContent-Type: audio/mp3\r\n", @tempfile=#<File:/var/folders/jf/flnsm_8x0dzgrpbydff1lr7h0000gn/T/RackMultipart20131215-58419-19x164b>>, "commit"=>"Upload"}
+Redirected to http://localhost:3000/
+Completed 302 Found in 4841ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-15 11:02:39 -0500
+Processing by SongsController#index as HTML
+  Rendered songs/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 166ms (Views: 7.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-15 11:02:40 -0500
+Served asset /application.css - 304 Not Modified (6ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-15 11:02:40 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2013-12-15 11:02:40 -0500
+Served asset /normalize.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-15 11:02:40 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation.min.css?body=1" for 127.0.0.1 at 2013-12-15 11:02:40 -0500
+Served asset /foundation.min.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/songs.css?body=1" for 127.0.0.1 at 2013-12-15 11:02:40 -0500
+Served asset /songs.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/songs.js?body=1" for 127.0.0.1 at 2013-12-15 11:02:40 -0500
+Served asset /songs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-15 11:02:40 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-15 11:04:30 -0500
+Processing by SongsController#index as HTML
+  Rendered songs/index.html.erb within layouts/application (15.3ms)
+Compiled songs.js  (0ms)  (pid 58419)
+Compiled application.js  (2ms)  (pid 58419)
+Completed 200 OK in 410ms (Views: 68.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-15 11:04:31 -0500
+Served asset /application.css - 304 Not Modified (5ms)
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2013-12-15 11:04:31 -0500
+Served asset /normalize.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation.min.css?body=1" for 127.0.0.1 at 2013-12-15 11:04:31 -0500
+Served asset /foundation.min.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-15 11:04:31 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-15 11:04:31 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/songs.css?body=1" for 127.0.0.1 at 2013-12-15 11:04:31 -0500
+Served asset /songs.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/songs.js?body=1" for 127.0.0.1 at 2013-12-15 11:04:31 -0500
+Served asset /songs.js - 200 OK (2ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-15 11:04:31 -0500
+Served asset /application.js - 304 Not Modified (24ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-15 11:06:22 -0500
+Processing by SongsController#index as HTML
+  Rendered songs/index.html.erb within layouts/application (2.9ms)
+Compiled songs.js  (0ms)  (pid 58419)
+Compiled application.js  (2ms)  (pid 58419)
+Completed 200 OK in 548ms (Views: 59.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-15 11:06:22 -0500
+Served asset /application.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2013-12-15 11:06:22 -0500
+Served asset /normalize.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-15 11:06:22 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/songs.css?body=1" for 127.0.0.1 at 2013-12-15 11:06:22 -0500
+Served asset /songs.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation.min.css?body=1" for 127.0.0.1 at 2013-12-15 11:06:22 -0500
+Served asset /foundation.min.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-15 11:06:22 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/songs.js?body=1" for 127.0.0.1 at 2013-12-15 11:06:22 -0500
+Served asset /songs.js - 200 OK (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-15 11:06:22 -0500
+Served asset /application.js - 304 Not Modified (3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-15 11:06:28 -0500
+Processing by SongsController#index as HTML
+  Rendered songs/index.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 155ms (Views: 8.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-15 11:06:29 -0500
+Served asset /application.css - 304 Not Modified (4ms)
+
+
+Started GET "/assets/foundation.min.css?body=1" for 127.0.0.1 at 2013-12-15 11:06:29 -0500
+Served asset /foundation.min.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2013-12-15 11:06:29 -0500
+Served asset /normalize.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/songs.css?body=1" for 127.0.0.1 at 2013-12-15 11:06:29 -0500
+Served asset /songs.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-15 11:06:29 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-15 11:06:29 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/songs.js?body=1" for 127.0.0.1 at 2013-12-15 11:06:29 -0500
+Served asset /songs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-15 11:06:29 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-15 11:07:13 -0500
+Processing by SongsController#index as HTML
+  Rendered songs/index.html.erb within layouts/application (3.9ms)
+Compiled songs.js  (0ms)  (pid 58419)
+Compiled application.js  (2ms)  (pid 58419)
+Completed 200 OK in 642ms (Views: 23.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-15 11:07:14 -0500
+Served asset /application.css - 304 Not Modified (4ms)
+
+
+Started GET "/assets/foundation.min.css?body=1" for 127.0.0.1 at 2013-12-15 11:07:14 -0500
+Served asset /foundation.min.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2013-12-15 11:07:14 -0500
+Served asset /normalize.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/songs.css?body=1" for 127.0.0.1 at 2013-12-15 11:07:14 -0500
+Served asset /songs.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-15 11:07:14 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-15 11:07:14 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/songs.js?body=1" for 127.0.0.1 at 2013-12-15 11:07:14 -0500
+Served asset /songs.js - 200 OK (2ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-15 11:07:14 -0500
+Served asset /application.js - 304 Not Modified (19ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-15 11:07:22 -0500
+Processing by SongsController#index as HTML
+  Rendered songs/index.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 153ms (Views: 7.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-15 11:07:23 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2013-12-15 11:07:23 -0500
+Served asset /normalize.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation.min.css?body=1" for 127.0.0.1 at 2013-12-15 11:07:23 -0500
+Served asset /foundation.min.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/songs.css?body=1" for 127.0.0.1 at 2013-12-15 11:07:23 -0500
+Served asset /songs.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-15 11:07:23 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-15 11:07:23 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/songs.js?body=1" for 127.0.0.1 at 2013-12-15 11:07:23 -0500
+Served asset /songs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-15 11:07:23 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-15 11:07:58 -0500
+Processing by SongsController#index as HTML
+  Rendered songs/index.html.erb within layouts/application (3.3ms)
+Compiled songs.js  (0ms)  (pid 58419)
+Compiled application.js  (2ms)  (pid 58419)
+Completed 200 OK in 529ms (Views: 22.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-15 11:07:59 -0500
+Served asset /application.css - 304 Not Modified (8ms)
+
+
+Started GET "/assets/foundation.min.css?body=1" for 127.0.0.1 at 2013-12-15 11:07:59 -0500
+Served asset /foundation.min.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2013-12-15 11:07:59 -0500
+Served asset /normalize.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/songs.css?body=1" for 127.0.0.1 at 2013-12-15 11:07:59 -0500
+Served asset /songs.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-15 11:07:59 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-15 11:07:59 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/songs.js?body=1" for 127.0.0.1 at 2013-12-15 11:07:59 -0500
+Served asset /songs.js - 200 OK (2ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-15 11:07:59 -0500
+Served asset /application.js - 304 Not Modified (5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-15 11:08:00 -0500
+Processing by SongsController#index as HTML
+  Rendered songs/index.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 161ms (Views: 7.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-15 11:08:00 -0500
+Served asset /application.css - 304 Not Modified (5ms)
+
+
+Started GET "/assets/songs.css?body=1" for 127.0.0.1 at 2013-12-15 11:08:00 -0500
+Served asset /songs.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation.min.css?body=1" for 127.0.0.1 at 2013-12-15 11:08:00 -0500
+Served asset /foundation.min.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2013-12-15 11:08:00 -0500
+Served asset /normalize.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-15 11:08:00 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-15 11:08:00 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/songs.js?body=1" for 127.0.0.1 at 2013-12-15 11:08:00 -0500
+Served asset /songs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-15 11:08:00 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-15 11:08:28 -0500
+Processing by SongsController#index as HTML
+  Rendered songs/index.html.erb within layouts/application (3.9ms)
+Compiled songs.js  (0ms)  (pid 58419)
+Compiled application.js  (2ms)  (pid 58419)
+Completed 200 OK in 1224ms (Views: 37.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-15 11:08:29 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/foundation.min.css?body=1" for 127.0.0.1 at 2013-12-15 11:08:29 -0500
+Served asset /foundation.min.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2013-12-15 11:08:29 -0500
+Served asset /normalize.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/songs.css?body=1" for 127.0.0.1 at 2013-12-15 11:08:29 -0500
+Served asset /songs.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-15 11:08:29 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-15 11:08:29 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/songs.js?body=1" for 127.0.0.1 at 2013-12-15 11:08:29 -0500
+Served asset /songs.js - 200 OK (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-15 11:08:29 -0500
+Served asset /application.js - 304 Not Modified (4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-15 11:09:13 -0500
+Processing by SongsController#index as HTML
+  Rendered songs/index.html.erb within layouts/application (15.9ms)
+Compiled songs.js  (0ms)  (pid 58419)
+Compiled application.js  (2ms)  (pid 58419)
+Completed 200 OK in 200ms (Views: 36.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-15 11:09:13 -0500
+Served asset /application.css - 304 Not Modified (6ms)
+
+
+Started GET "/assets/songs.css?body=1" for 127.0.0.1 at 2013-12-15 11:09:13 -0500
+Served asset /songs.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2013-12-15 11:09:13 -0500
+Served asset /normalize.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/foundation.min.css?body=1" for 127.0.0.1 at 2013-12-15 11:09:13 -0500
+Served asset /foundation.min.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-15 11:09:13 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-15 11:09:13 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/songs.js?body=1" for 127.0.0.1 at 2013-12-15 11:09:13 -0500
+Served asset /songs.js - 200 OK (2ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-15 11:09:13 -0500
+Served asset /application.js - 304 Not Modified (7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-15 11:10:20 -0500
+Processing by SongsController#index as HTML
+  Rendered songs/index.html.erb within layouts/application (3.7ms)
+Completed 200 OK in 557ms (Views: 8.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-15 11:10:21 -0500
+Served asset /application.css - 304 Not Modified (5ms)
+
+
+Started GET "/assets/songs.css?body=1" for 127.0.0.1 at 2013-12-15 11:10:21 -0500
+Served asset /songs.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation.min.css?body=1" for 127.0.0.1 at 2013-12-15 11:10:21 -0500
+Served asset /foundation.min.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2013-12-15 11:10:21 -0500
+Served asset /normalize.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-15 11:10:21 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-15 11:10:21 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-15 11:10:21 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/songs.js?body=1" for 127.0.0.1 at 2013-12-15 11:10:21 -0500
+Served asset /songs.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-15 11:13:29 -0500
+Processing by SongsController#index as HTML
+  Rendered songs/index.html.erb within layouts/application (3.6ms)
+Completed 200 OK in 578ms (Views: 8.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-15 11:13:29 -0500
+Served asset /application.css - 304 Not Modified (7ms)
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2013-12-15 11:13:29 -0500
+Served asset /normalize.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation.min.css?body=1" for 127.0.0.1 at 2013-12-15 11:13:29 -0500
+Served asset /foundation.min.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-15 11:13:29 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/songs.css?body=1" for 127.0.0.1 at 2013-12-15 11:13:29 -0500
+Served asset /songs.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-15 11:13:29 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/songs.js?body=1" for 127.0.0.1 at 2013-12-15 11:13:30 -0500
+Served asset /songs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-15 11:13:30 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-15 11:15:40 -0500
+Processing by SongsController#index as HTML
+  Rendered songs/index.html.erb within layouts/application (3.8ms)
+Completed 200 OK in 188ms (Views: 8.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-15 11:15:40 -0500
+Served asset /application.css - 304 Not Modified (6ms)
+
+
+Started GET "/assets/songs.css?body=1" for 127.0.0.1 at 2013-12-15 11:15:40 -0500
+Served asset /songs.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation.min.css?body=1" for 127.0.0.1 at 2013-12-15 11:15:40 -0500
+Served asset /foundation.min.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2013-12-15 11:15:40 -0500
+Served asset /normalize.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-15 11:15:40 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-15 11:15:40 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/songs.js?body=1" for 127.0.0.1 at 2013-12-15 11:15:40 -0500
+Served asset /songs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-15 11:15:40 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-15 11:17:12 -0500
+Processing by SongsController#index as HTML
+  Rendered songs/index.html.erb within layouts/application (4.1ms)
+Completed 200 OK in 565ms (Views: 8.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-15 11:17:13 -0500
+Served asset /application.css - 304 Not Modified (6ms)
+
+
+Started GET "/assets/foundation.min.css?body=1" for 127.0.0.1 at 2013-12-15 11:17:13 -0500
+Served asset /foundation.min.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2013-12-15 11:17:13 -0500
+Served asset /normalize.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/songs.css?body=1" for 127.0.0.1 at 2013-12-15 11:17:13 -0500
+Served asset /songs.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-15 11:17:13 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-15 11:17:13 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/songs.js?body=1" for 127.0.0.1 at 2013-12-15 11:17:13 -0500
+Served asset /songs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-15 11:17:13 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-15 11:25:43 -0500
+Processing by SongsController#index as HTML
+  Rendered songs/index.html.erb within layouts/application (3.8ms)
+Completed 200 OK in 634ms (Views: 8.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-15 11:25:43 -0500
+Served asset /application.css - 304 Not Modified (4ms)
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2013-12-15 11:25:43 -0500
+Served asset /normalize.css - 304 Not Modified (4ms)
+
+
+Started GET "/assets/foundation.min.css?body=1" for 127.0.0.1 at 2013-12-15 11:25:43 -0500
+Served asset /foundation.min.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-15 11:25:43 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/songs.css?body=1" for 127.0.0.1 at 2013-12-15 11:25:43 -0500
+Served asset /songs.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-15 11:25:43 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/songs.js?body=1" for 127.0.0.1 at 2013-12-15 11:25:43 -0500
+Served asset /songs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-15 11:25:43 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+Connecting to database specified by database.yml
+
+
+Started GET "/" for 127.0.0.1 at 2013-12-15 17:16:55 -0500
+Processing by SongsController#index as HTML
+  Rendered songs/index.html.erb within layouts/application (6.6ms)
+Compiled songs.js  (0ms)  (pid 59337)
+Compiled application.js  (2ms)  (pid 59337)
+Completed 200 OK in 735ms (Views: 114.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-12-15 17:16:55 -0500
+Served asset /application.css - 304 Not Modified (15ms)
+
+
+Started GET "/assets/songs.css?body=1" for 127.0.0.1 at 2013-12-15 17:16:55 -0500
+Served asset /songs.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2013-12-15 17:16:55 -0500
+Served asset /normalize.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-12-15 17:16:55 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/foundation.min.css?body=1" for 127.0.0.1 at 2013-12-15 17:16:55 -0500
+Served asset /foundation.min.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-12-15 17:16:55 -0500
+Served asset /jquery.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/songs.js?body=1" for 127.0.0.1 at 2013-12-15 17:16:55 -0500
+Served asset /songs.js - 200 OK (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-12-15 17:16:55 -0500
+Served asset /application.js - 304 Not Modified (27ms)
